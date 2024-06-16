@@ -1,0 +1,22 @@
+# バイトコンパイルされたファイル
+__pycache__/
+*.py[cod]
+
+# パッケージングファイル
+*.egg-info/
+dist/
+
+# 環境設定ファイル
+.env
+.tool-versions
+
+# IDE設定
+.idea/
+.vscode/
+
+# 仮想環境ディレクトリ
+.venv/
+
+# 音声ファイル
+*.mp3
+*.wav
